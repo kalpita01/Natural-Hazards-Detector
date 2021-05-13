@@ -1,5 +1,9 @@
 # Node Modules
 /node_modules
 
+#Production
+/build
+
+#Binary
 .DS_Store
 .env
